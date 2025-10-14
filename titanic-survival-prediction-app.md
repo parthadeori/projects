@@ -8,7 +8,10 @@ github_url: https://github.com/parthadeori/titanic-survival-app
 tech_stack:
   - Python
   - Pandas
+  - Numpy
   - Scikit-learn
   - Streamlit
-category: Machine Learning
+category:
+  - Beginner
+  - Machine Learning
 ---
