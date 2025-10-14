@@ -11,7 +11,5 @@ tech_stack:
   - Numpy
   - Scikit-learn
   - Streamlit
-category:
-  - Beginner
-  - Machine Learning
+category: Machine Learning
 ---
