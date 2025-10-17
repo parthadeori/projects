@@ -1,3 +1,4 @@
+---
 title: Stock Price Prediction App
 description: >
   A beginner-friendly machine learning app that predicts future stock prices based on historical data using features like Open, High, Low, and Volume. The app includes interactive charts, technical indicators (SMA, EMA), daily returns, and performance metrics for a hands-on learning experience.
@@ -14,3 +15,4 @@ tech_stack:
 category:
   - Beginner
   - Machine Learning
+---
