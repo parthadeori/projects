@@ -11,7 +11,7 @@ tech_stack:
   - Numpy
   - Scikit-learn
   - Streamlit
-  - Altair
+  - Plotly
 category:
   - Beginner
   - Machine Learning
